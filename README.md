@@ -133,10 +133,10 @@
 </p>
 
 <br/>
-<h2 align="left">Archivement:</h2>
+<h2 align="left">Achievement:</h2>
 
 <p> <img src="https://www.codewars.com/users/Tri%20Bui%20Quang/badges/large" alt="codewars" /> </p>
 <br/>
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tribuiquang&show_icons=true&locale=en&layout=compact" alt="tribuiquang" /></p>
-<p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=tribuiquang&show_icons=true&locale=en" alt="tribuiquang" /></p>
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tribuiquang&show_icons=true&locale=en&layout=compact" alt="tribuiquang" /></p>
+<p>&nbsp;<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=tribuiquang&show_icons=true&locale=en" alt="tribuiquang" /></p>
 <p><img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=tribuiquang&" alt="tribuiquang" /></p>
