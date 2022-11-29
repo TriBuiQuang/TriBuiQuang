@@ -30,28 +30,28 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://codepen.io/https://codepen.io/tribuiquang" target="blank">
+<a href="https://codepen.io/tribuiquang" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tribuiquang" height="30" width="40" />
 </a>
-<a href="https://dev.to/https://dev.to/tribuiquang" target="blank">
+<a href="https://dev.to/tribuiquang" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tribuiquang" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tri-bui-quang/" target="blank">
+<a href="https://www.linkedin.com/in/tri-bui-quang/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tri-bui-quang/" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10713181/tri-bui-quang" target="blank">
+<a href="https://stackoverflow.com/users/10713181/tri-bui-quang" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10713181/tri-bui-quang" height="30" width="40" />
 </a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/tribuiquang" target="blank">
+<a href="https://codesandbox.io/u/tribuiquang" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/tribuiquang" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/buiquangductri" target="blank">
+<a href="https://www.hackerrank.com/buiquangductri" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/buiquangductri" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/https://leetcode.com/tribuiquang/" target="blank">
+<a href="https://leetcode.com/tribuiquang/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tribuiquang/" height="30" width="40" />
 </a>
-<a href="https://www.topcoder.com/members/https://platform.topcoder.com/profile/buiquangductri" target="blank">
+<a href="https://platform.topcoder.com/profile/buiquangductri" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://platform.topcoder.com/profile/buiquangductri" height="30" width="40" />
 </a>
 
